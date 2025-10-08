@@ -1,0 +1,8 @@
+langchain
+chromadb
+sentence-transformers
+pypdf
+pytesseract
+Pillow
+gradio
+langchain_community
