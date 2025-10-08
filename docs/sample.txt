@@ -1,0 +1,9 @@
+Title: The Journey to Mars — VIT Research Highlights
+
+The Vaishnav Institute of Technology (VIT) has been conducting advanced research in interplanetary mission design, autonomous spacecraft navigation, and generative artificial intelligence for onboard decision support systems.
+
+A key focus area is optimizing fuel-efficient trajectories for Mars missions using hybrid AI-assisted simulation frameworks. These systems integrate reinforcement learning with classical orbital mechanics to identify optimal launch windows and transfer orbits.
+
+In 2024, VIT researchers developed a local generative AI system that assists scientists in analyzing mission logs and generating human-readable summaries of spacecraft telemetry data. This privacy-conscious approach allows mission teams to process sensitive data without relying on cloud-based AI tools.
+
+Future work aims to combine retrieval-augmented generation (RAG) pipelines with onboard computing, enabling real-time mission support and autonomous problem-solving during deep-space operations.
